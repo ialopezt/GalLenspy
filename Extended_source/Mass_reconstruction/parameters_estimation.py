@@ -856,21 +856,20 @@ if chk[0]=='True':
     index.append(r"BULGE");    index.append(r"---"); index.append(r"---")
     table_para.append(r"b");   table_units.append(r"kpc")
     table_para.append(r"M");   table_units.append(r"M_Sun")
-    table_para.append(r"Mass_halo");    table_units.append(r"M_Sun")
+    table_para.append(r"Mass_bulge");    table_units.append(r"M_Sun")
 
 if chk[1]=='True':
     index.append(r"BULGE");    index.append(r"---"); index.append(r"---"); index.append(r"---")
     table_para.append(r"a");   table_units.append(r"kpc")
     table_para.append(r"b");   table_units.append(r"kpc")
     table_para.append(r"M");   table_units.append(r"M_Sun")
-    table_para.append(r"Mass_halo");    table_units.append(r"M_Sun")
+    table_para.append(r"Mass_bulge");    table_units.append(r"M_Sun")
 
 if chk[2]=='True':
     index.append(r"EXPONENTIAL DISK"); index.append(r"---"); index.append(r"---")
     table_para.append(r"h_r");      table_units.append(r"kpc")
     table_para.append(r"Sigma_0");  table_units.append(r"M_Sun/pc^2")
     table_para.append(r"Mass_disk");  table_units.append(r"M_Sun")
-    table_para.append(r"Mass_disk");    table_units.append(r"M_Sun")
     
 if chk[3]=='True':
     index.append(r"THIN DISK"); index.append(r"---"); index.append(r"---"); index.append(r"---")
