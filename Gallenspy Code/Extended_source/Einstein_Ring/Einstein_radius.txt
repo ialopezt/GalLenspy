@@ -1,2 +1,0 @@
-	PARAMETER	UNITS	Eins_Radius	Eins_Radius(+)	Eins_Radius(-)
-0	Einstein Radius	arcs	0.9285240561035474	0.857099128710967	0.8570991287109667

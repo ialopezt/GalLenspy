@@ -1,8 +1,0 @@
-component	mass	a (kpc)	b (kpc)	checked
-BULGE I	4150000000.0	None	0.05	True
-BULGE II	None	None	None	False
-EXP.DISC	520000000.0	6.0	None	True
-THIN DISC	None	None	None	False
-THICK DISC	None	None	None	False
-DARK HALO	554500000000.0	3.09	None	True
-BURKERT HALO	None	None	None	False
