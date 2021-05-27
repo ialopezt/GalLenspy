@@ -1,0 +1,6 @@
+variable	value	error
+r	0.06	None
+h	-0.03	None
+k	-0.01	None
+h_r	9.2	None
+Sigma_0	5150000000.0	None
