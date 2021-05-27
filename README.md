@@ -24,7 +24,11 @@ Gallenspy which execute distinct tasks.
 ### Source estimation
 
 In the case of the estimation of the source, Gallenspy let to the user made a visual fitting in the notebook
-**Interactive_data.ipynb** for a lens model of exponential disc in the folder **SourceAndLens_estimation**, 
+**Interactive_data.ipynb** for a lens model of exponential disc in the folder **Source_estimation**, 
 where from this set of estimated parameters the user have the posibility of established the initial guess.
 
+How **Interactive_data.ipynb** is an open source code, the user has the possibility of modify the
+parametric range in the follow block of the notebook.
+
 ![imagen1](https://user-images.githubusercontent.com/32373393/119743961-974d0380-be50-11eb-88ad-bd3bff9fc208.png)
+
